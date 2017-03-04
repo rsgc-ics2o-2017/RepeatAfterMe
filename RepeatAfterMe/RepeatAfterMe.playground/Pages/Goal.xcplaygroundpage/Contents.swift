@@ -28,7 +28,7 @@ for i in 1...3 {
     let offset = Int(arc4random_uniform(150)) - 75
     
     // Draw circles in random horizontal positions in the middle of the canvas
-    canvas.drawEllipse(centreX: canvas.width / 2 + offset, centreY: 100 * i , width: 50, height: 50)
+    canvas.drawEllipse(centreX: canvas.width / 2 + offset, centreY: 100 * i,  width: 50, height: 50)
 
 }
 

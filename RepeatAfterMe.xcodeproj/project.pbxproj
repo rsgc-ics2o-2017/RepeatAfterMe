@@ -20,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		8172FC341E52520700619C7E /* RepeatAfterMe.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = RepeatAfterMe.playground; path = RepeatAfterMe/RepeatAfterMe.playground; sourceTree = SOURCE_ROOT; };
-		819C0CBE1E42103C005E9BCA /* RepeatAfterMe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RepeatAfterMe; sourceTree = BUILT_PRODUCTS_DIR; };
+		819C0CBE1E42103C005E9BCA /* RepeatAfterMe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; name = RepeatAfterMe; path = /Users/russellgordon/Documents/Repositories/ICS2O/RepeatAfterMe/build/Debug/RepeatAfterMe; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,16 +38,7 @@
 			isa = PBXGroup;
 			children = (
 				819C0CC01E42103C005E9BCA /* RepeatAfterMe */,
-				819C0CBF1E42103C005E9BCA /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		819C0CBF1E42103C005E9BCA /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				819C0CBE1E42103C005E9BCA /* RepeatAfterMe */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		819C0CC01E42103C005E9BCA /* RepeatAfterMe */ = {
@@ -104,7 +95,7 @@
 				en,
 			);
 			mainGroup = 819C0CB51E42103C005E9BCA;
-			productRefGroup = 819C0CBF1E42103C005E9BCA /* Products */;
+			productRefGroup = 819C0CB51E42103C005E9BCA;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
